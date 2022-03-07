@@ -2,8 +2,8 @@ title:              Mqt 2022
 email:              mqt2022@gmail.com
 description:        Description of mqt2022
 author:             mqt2022
-baseurl:            ""
-url:                "https://startbootstrap.github.io"
+baseurl:            "/blog"
+url:                "https://bm-master.github.io"
 
 # Social Profiles
 twitter_username:   mqt2022Twitter
